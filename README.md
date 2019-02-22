@@ -9,3 +9,6 @@ For my experiment and demo only.
 `family_spend.html` and `family_spend.js` are to build a tx for my family to spend from contract
 
 `slides.pptx` and `slides_no_animation.pdf` are the slides
+
+Code is somewhat compressed for fitting onto slides easier so comments are limited.
+Similar code was created in node.js with possibly better comments [here](https://github.com/ildarmgt/bitcoin-smart-contracts/tree/master/contracts/inheritance_timer).
