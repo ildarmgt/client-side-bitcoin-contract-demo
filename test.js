@@ -1,0 +1,4 @@
+console.log(bitcoin.address.toOutputScript('bc1qz07hctfju2yncnvs0tahlrtjtze9vtx456wnx49y7xk9df6lsfwsaqlfa3', bitcoin.networks.bitcoin));
+
+tb1quhw8fahnpttdypeteevfz4mmpe2zfgv8uvsg6f432akgj7ng8stwsdpy
+tb1quhw8fahnpttdypeteevfz4mmpe2zfgv8luvsg6f0432akgj7ng8stwsdpy
